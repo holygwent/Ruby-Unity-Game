@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f53ee177f8010d346a62bac863f53572
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pfItemWorld: {fileID: 3034301042772290726, guid: 6d511ba076783e747844cdc321129cef, type: 3}
+  - redVial: {fileID: 21300000, guid: f007fe6d38f6a4f47b14c2628973fcc2, type: 3}
+  - blueVial: {fileID: 21300000, guid: b19bfc8ee0a555240874864854f29039, type: 3}
+  - greenVial: {fileID: 21300000, guid: 2515dbdcfd3568f4293d604b1dcd6ec5, type: 3}
+  - yellowVial: {fileID: 21300000, guid: c292125e1cdc2724197d2b9dc1c6363d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

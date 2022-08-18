@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Npc
+  - PushRock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - NPC
+  - Blocking
+  - Humans
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Colision
+    uniqueID: 225937075
+    locked: 0
+  - name: Floor
+    uniqueID: 1268332481
+    locked: 0
+  - name: Wall
+    uniqueID: 4152065
+    locked: 0
+  - name: Pathway
+    uniqueID: 2405906397
+    locked: 0
+  - name: Pathway_fix
+    uniqueID: 185936733
+    locked: 0
+  - name: Humans
+    uniqueID: 4181637075
+    locked: 0
+  - name: Top
+    uniqueID: 1803412925
+    locked: 0
+  - name: OverTop
+    uniqueID: 28935707
+    locked: 0
